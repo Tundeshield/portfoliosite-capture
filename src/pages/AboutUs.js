@@ -5,6 +5,7 @@ import Faq from "../components/Faq";
 
 
 
+
 const AboutUs=()=>{
     return(
     <div className="aboutus">
